@@ -1,0 +1,1 @@
+python Nest_mysql_datalogger/nest_db.py -x -nu $NESTUSER -np $NESTPW -da $DBADDR -dp $DBPORT -du $DBUSER -dw $DBPASS -ds $DBSCHEMA
